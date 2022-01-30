@@ -1,4 +1,4 @@
 name: ACLIndefWorlds
 version: '${project.version}'
 main: net.badbird5907.aclworldhook.ACLWorldHook
-api-version: 1.18
+api-version: 1.13
